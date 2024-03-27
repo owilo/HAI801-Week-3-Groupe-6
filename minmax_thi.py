@@ -106,7 +106,7 @@ def find_best_move(board) :
                     bestVal = moveVal 
 
     return bestVal 
-filename = "Dataset/dataset.txt"
+filename = "data/dataset.txt"
 grilles = read_grids_from_file(filename)
 
 start = time.process_time()
