@@ -1,0 +1,51 @@
+X                                    
+O         X                          
+X         X      O                   
+O         X   X  O                   
+X         X   X  O        O          
+O         X   X  O     X  O          
+X         X   X  O     X  OO         
+O         X   X  O     XX OO         
+X         X   X  O     XX OO O       
+O        XX   X  O     XX OO O       
+X   O    XX   X  O     XX OO O       
+O   O    XX   X  O     XXXOO O       
+X O O    XX   X  O     XXXOO O       
+O O O    XX   X  O     XXXOO O    X  
+O OXO    XX   X  O     XXXOO O       
+X OXO    XX O X  O     XXXOO O       
+O OXO    XX O X  O     XXXOO OX      
+O OXO    XX O X  O     XXXOO O    X  
+X OXO O  XX O X  O     XXXOO O    X  
+O OXO O  XX O X  O     XXXOO O  X X  
+X OXO O  XX O X  O     XXXOO OO X X  
+O OXO O  XX O X  O   X XXXOO OO X X  
+X OXO O  XX O X  O  OX XXXOO OO X X  
+O OXO O  XX O X  OX OX XXXOO OO X X  
+XOOXO O  XX O X  OX OX XXXOO OO X X  
+OOOXOXO  XX O X  OX OX XXXOO OO X X  
+XOOXOXO  XX O X  OX OX XXXOO OOOX X  
+XOOXOXO  XX O X  OXOOX XXXOO OO X X  
+OOOXO O  XX O X  OX OX XXXOO OO X X X
+XOOXO O  XX O XO OX OX XXXOO OO X X X
+XOOXO O  XX O X OOX OX XXXOO OO X X X
+OOOXO O  XX OXX OOX OX XXXOO OO X X X
+X OXO O  XX O X  OX OX XXXOO OO XOX  
+O OXO O  XX O X  O  OX XXXOO OOXX X  
+X OXO O  XX OOX  O   X XXXOO OO X X  
+X OXO O  XX O X  O   X XXXOO OO XOX  
+O OXO O  XX O X  O   X XXXOO OO XOX X
+XOOXO O  XX O X  O   X XXXOO OO XOX X
+OOOXOXO  XX O X  O   X XXXOO OO XOX X
+XOOXOXO  XX O X  O   X XXXOO OOOXOX X
+OOOXOXO  XX O X  OX  X XXXOO OOOXOX X
+XOOXOXO  XX O XO OX  X XXXOO OOOXOX X
+XOOXOXO  XX OOX  O   X XXXOO OO XOX X
+OOOXOXO  XX OOX  O   X XXXOO OOXXOX X
+XOOXOXO OXX OOX  O   X XXXOO OOXXOX X
+X OXO    XX O X  O     XXXOO O    XO 
+O OXO  X XX O X  O     XXXOO O    XO 
+X OXO  X XX O XO O     XXXOO O    XO 
+X OXO  X XX OOX  O     XXXOO O    XO 
+X OXO  X XX O X  O     XXXOO OO   XO 
+O OXO  X XX O X  O     XXXOO OO X XO 
