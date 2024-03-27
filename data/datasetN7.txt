@@ -1,0 +1,51 @@
+X                                                 
+O                         X                       
+X                         X   O                   
+O                      X  X   O                   
+X                      X  X   OO                  
+O                      X  X   OO  X               
+X                      X  X   OO  X    O          
+O                      X XX   OO  X    O          
+X                      X XX   OO  X  O O          
+O       X              X XX   OO  X  O O          
+X       X              X XX   OO  X OO O          
+O       X        X     X XX   OO  X OO O          
+X       X        X     X XX   OO  X OO O  O       
+O       X        X     X XX   OO  X OO O  O    X  
+X      OX        X     X XX   OO  X OO O  O    X  
+O      OX        X     X XX   OO  X OO OX O    X  
+X      OX  O     X     X XX   OO  X OO OX O    X  
+O      OX        X     X XX   OO  X OO O  O   XX  
+X      OX        X  O  X XX   OO  X OO O  O   XX  
+O      OX        X  O  X XX   OO  X OO O  O   XX X
+X      OX        XO O  X XX   OO  X OO O  O   XX X
+X  O   OX        X  O  X XX   OO  X OO O  O   XX X
+X      OX        X  OO X XX   OO  X OO O  O   XX X
+OX     OX        X  OO X XX   OO  X OO O  O   XX X
+XX     OX        X  OO X XX   OO  X OO OO O   XX X
+XX     OX      O X  OO X XX   OO  X OO O  O   XX X
+O      OX        X  OO X XX   OO  X OO O  OX  XX X
+X      OX   O    X  OO X XX   OO  X OO O  OX  XX X
+O      OX   O    X  OO X XX   OOX X OO O  OX  XX X
+X      OX   O    X  OO X XX   OOXOX OO O  OX  XX X
+O      OX   O    X  OO X XX X OOXOX OO O  OX  XX X
+O X    OX   O    X  OO X XX   OOXOX OO O  OX  XX X
+O     XOX   O    X  OO X XX   OOXOX OO O  OX  XX X
+X     XOX   O    X  OO X XX   OOXOX OO O OOX  XX X
+O     XOX X O    X  OO X XX   OOXOX OO O OOX  XX X
+O     XOX   O    X  OOXX XX   OOXOX OO O OOX  XX X
+X     XOX   OO   X  OOXX XX   OOXOX OO O OOX  XX X
+O X   XOX   OO   X  OOXX XX   OOXOX OO O OOX  XX X
+O     XOX   OO   X  OOXX XX X OOXOX OO O OOX  XX X
+O     XOX   OX   X  OO X XX   OOXOX OO O OOX  XX X
+X     XOX   OX O X  OO X XX   OOXOX OO O OOX  XX X
+O     XOX   OX O X  OO X XX   OOXOXXOO O OOX  XX X
+X     XOX   OX  OX  OO X XX   OOXOX OO O OOX  XX X
+O     XOX   OX  OX  OO X XX   OOXOXXOO O OOX  XX X
+XO    XOX   OX  OX  OO X XX   OOXOXXOO O OOX  XX X
+OO    XOX   OX  OX  OOXX XX   OOXOXXOO O OOX  XX X
+OOX   XOX   OX  OX  OO X XX   OOXOXXOO O OOX  XX X
+X     XOX O OX  OX  OO X XX   OOXOXXOO O OOX  XX X
+X     XOX   OX  OX  OOOX XX   OOXOXXOO O OOX  XX X
+O X   XOX   OX  OX  OOOX XX   OOXOXXOO O OOX  XX X
+O     XOX   OX  OX  OO X XX   OOXOX OO O OOXX XX X
