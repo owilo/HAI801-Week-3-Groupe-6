@@ -73,7 +73,7 @@ def meilleurCoup(grille, n):
 
 def choisirCaseVide(grille, n):
     cases_vides = [(i, j) for i in range(n) for j in range(n) if grille[i][j] == '-']
-    return random.choice(cases_vides)
+    return cases_vides[0]#random.choice(cases_vides)
 
 def jouerPartie(grille, symbol, n):
     grille = copy.deepcopy(grille)  # Copie de la grille pour ne pas modifier l'originale
